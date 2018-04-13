@@ -1,7 +1,7 @@
 # Singapore Appium Meetup
 
 ### Community collection of [Singapore Appium Meetup](https://www.meetup.com/Singapore-Appium-Meetup/) resources.
-### Join our [slack](https://singaporeappiummeetup-slack.herokuapp.com/) channel.
+### Join our [slack](https://singaporeappiummeetup-slack.herokuapp.com/) channel to get more details.
 
 ## [Apr 2018](https://www.meetup.com/Singapore-Appium-Meetup/events/248721745/)
 ### Android, iOS and Web testing in a single framework & Image-based testing - Martin Schneider 
