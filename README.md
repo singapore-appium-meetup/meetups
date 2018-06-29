@@ -3,6 +3,20 @@
 ### Community collection of [Singapore Appium Meetup](https://www.meetup.com/Singapore-Appium-Meetup/) resources.
 ### Join our [slack](https://singaporeappiummeetup-slack.herokuapp.com/) channel to get more details.
 
+## [Jun 2018](https://www.meetup.com/Singapore-Appium-Meetup/events/251879502/)
+### 1. Learnings from our cloud automation journey (so far) - Martin Schneider
+### 2. Quick and dirty test statistics with Python and Google Sheets - Jerry Zhao & Syam Sasi
+### 3. Open Discussion
+* [Slides](https://docs.google.com/presentation/d/17uwQ8h_4EdijYvgkEq5CnTkVXG6yCVGWvkvQfAUAUbM/edit?usp=sharing) 
+[cucumber2junit-maven-plugin](https://github.com/carousell/cucumber2junit-maven-plugin) 
+[testrail-maven-plugin](https://github.com/carousell/testrail-maven-plugin-1) 
+[AWSDeviceFarmTestResultHelper](https://github.com/carousell/AWSDeviceFarmTestResultHelper) 
+
+
+& [Video1](https://youtu.be/nWnCD-4ttKg)
+& [Video2](https://youtu.be/qqz81Ios4wU)
+
+
 ## [Apr 2018](https://www.meetup.com/Singapore-Appium-Meetup/events/248721745/)
 ### Android, iOS and Web testing in a single framework & Image-based testing - Martin Schneider 
 * [Slides](https://docs.google.com/presentation/d/1FqfxJ-icSX2fmkqJaZw2aVbaH5Bsz59Kx5Y7sfRA-vI/edit?usp=sharing) & [Code](https://github.com/singapore-appium-meetup/yasew) 
