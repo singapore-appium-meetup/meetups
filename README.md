@@ -8,9 +8,9 @@
 ### 2. Quick and dirty test statistics with Python and Google Sheets - Jerry Zhao & Syam Sasi
 ### 3. Open Discussion
 * [Slides](https://docs.google.com/presentation/d/17uwQ8h_4EdijYvgkEq5CnTkVXG6yCVGWvkvQfAUAUbM/edit?usp=sharing) 
-[cucumber2junit-maven-plugin](https://github.com/carousell/cucumber2junit-maven-plugin) 
-[testrail-maven-plugin](https://github.com/carousell/testrail-maven-plugin-1) 
-[AWSDeviceFarmTestResultHelper](https://github.com/carousell/AWSDeviceFarmTestResultHelper) 
+* [Code cucumber2junit-maven-plugin](https://github.com/carousell/cucumber2junit-maven-plugin) 
+* [Code testrail-maven-plugin](https://github.com/carousell/testrail-maven-plugin-1) 
+* [Code AWSDeviceFarmTestResultHelper](https://github.com/carousell/AWSDeviceFarmTestResultHelper) 
 
 
 & [Video1](https://youtu.be/nWnCD-4ttKg)
