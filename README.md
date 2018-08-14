@@ -3,6 +3,13 @@
 ### Community collection of [Singapore Appium Meetup](https://www.meetup.com/Singapore-Appium-Meetup/) resources.
 ### Join our [slack](https://singaporeappiummeetup-slack.herokuapp.com/) channel to get more details.
 
+
+## [Jul 2018](https://www.meetup.com/Singapore-Appium-Meetup/events/252900989/)
+### Appium - Back To The Basics - Pavel Strongin 
+* [Slides](https://www.slideshare.net/SyamSasi1/appium-basics) 
+* [Video](https://youtu.be/6GRo8KoBHKk)
+
+
 ## [Jun 2018](https://www.meetup.com/Singapore-Appium-Meetup/events/251879502/)
 ### 1. Learnings from our cloud automation journey (so far) - Martin Schneider
 ### 2. Quick and dirty test statistics with Python and Google Sheets - Jerry Zhao & Syam Sasi
