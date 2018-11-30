@@ -1,7 +1,26 @@
 # Singapore Appium Meetup
 
-### Community collection of [Singapore Appium Meetup](https://www.meetup.com/Singapore-Appium-Meetup/) resources.
+### Community collection of [TAQELAH](https://www.meetup.com/taqelah/) resources.
 ### Join our [slack](https://singaporeappiummeetup-slack.herokuapp.com/) channel to get more details.
+### Join our [Facebook Group](https://www.facebook.com/groups/148322462547482/) to know us more.
+
+
+
+## [Nov 2018](https://www.meetup.com/taqelah/events/256193269/)
+### 1. Breaking free from static abuse in test automation frameworks - Abhijeet Vaikar, Software Engineer Test @ Carousell
+### 2. LOCUST - A modern load testing tool - Akash Srivastava , Senior Software Engineer in Test @ Autodesk
+### 3. Building Your Own Device Farm - Zui Young Lim , Associate Quality Engineer @ GovTech
+* [Slide1](https://docs.google.com/presentation/d/159aSKuG25MxHvb_q8sqfnv_ANaEBf9t9oSOODAvDAWU) 
+* [Slide1](https://docs.google.com/presentation/d/159aSKuG25MxHvb_q8sqfnv_ANaEBf9t9oSOODAvDAWU) 
+* [Video1](https://youtu.be/nWnCD-4ttKg)
+* [Video2](https://youtu.be/qqz81Ios4wU)
+
+
+## [Oct 2018](https://www.meetup.com/taqelah/events/254548453/)
+### 1. Building an AI-powered visual testing service - Adam Carmi @ Applitools
+### 2. Automated testing in the age of container clusters - Manoj Kumar @ Applitools
+* [Slides](https://docs.google.com/presentation/d/1qVEqbZpiuifDJ-e5NHVkzaKq-cKx79npNcPtzGkSfks/edit#slide=id.g44a7afee1f_2_45) 
+
 
 
 ## [Jul 2018](https://www.meetup.com/Singapore-Appium-Meetup/events/252900989/)
