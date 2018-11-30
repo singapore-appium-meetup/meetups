@@ -1,4 +1,4 @@
-# Singapore Appium Meetup
+# TAQELAH - Test Automation & Quality Engineering LAH
 
 ### Community collection of [TAQELAH](https://www.meetup.com/taqelah/) resources.
 ### Join our [slack](https://singaporeappiummeetup-slack.herokuapp.com/) channel to get more details.
