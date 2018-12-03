@@ -8,15 +8,16 @@
 
 ## [Nov 2018](https://www.meetup.com/taqelah/events/256193269/)
 ### 1. Breaking free from static abuse in test automation frameworks - Abhijeet Vaikar, Software Engineer Test @ Carousell
-### 2. LOCUST - A modern load testing tool - Akash Srivastava , Senior Software Engineer in Test @ Autodesk
-### 3. Building Your Own Device Farm - Zui Young Lim , Associate Quality Engineer @ GovTech
-* [Slide1](https://docs.google.com/presentation/d/1LB9ZFgCb7nEyweLsXG4qoSrO0WARCMIT8OcbvrRRwlY) 
-* [Slide2](https://drive.google.com/file/d/1FR9zaHlYRY6TPXGv9j2Qe6VAU_2-49-r) 
-* [Slide3](https://drive.google.com/file/d/1LqSZcRs-JY6P0RMITSgc20BUA4OFzrge) 
+* [Slide](https://docs.google.com/presentation/d/1LB9ZFgCb7nEyweLsXG4qoSrO0WARCMIT8OcbvrRRwlY) 
+* [Video](https://youtu.be/SQAKDzjbBSo)
 
-* [Video1](https://youtu.be/SQAKDzjbBSo)
-* [Video2](https://youtu.be/Qu2Oj-eGmtk)
-* [Video2](https://youtu.be/MZhxE6NbvoI)
+### 2. LOCUST - A modern load testing tool - Akash Srivastava , Senior Software Engineer in Test @ Autodesk
+* [Slide](https://drive.google.com/file/d/1FR9zaHlYRY6TPXGv9j2Qe6VAU_2-49-r) 
+* [Video](https://youtu.be/Qu2Oj-eGmtk)
+
+### 3. Building Your Own Device Farm - Zui Young Lim , Associate Quality Engineer @ GovTech
+* [Slide](https://drive.google.com/file/d/1LqSZcRs-JY6P0RMITSgc20BUA4OFzrge) 
+* [Video](https://youtu.be/MZhxE6NbvoI)
 
 
 
