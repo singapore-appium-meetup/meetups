@@ -1,8 +1,7 @@
 # TAQELAH - Test Automation & Quality Engineering LAH
 
 ### Community collection of [TAQELAH](https://www.meetup.com/taqelah/) resources.
-### Join our [slack](https://singaporeappiummeetup-slack.herokuapp.com/) channel to get more details.
-### Join our [Facebook Group](https://www.facebook.com/groups/148322462547482/) to know us more.
+### Join our [slack](https://singaporeappiummeetup-slack.herokuapp.com/) channel and [Facebook Group](https://www.facebook.com/groups/148322462547482/) to get more details.
 
 
 
