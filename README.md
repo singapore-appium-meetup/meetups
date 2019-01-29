@@ -4,6 +4,13 @@
 ### Join our [slack](https://singaporeappiummeetup-slack.herokuapp.com/) channel and [Facebook Group](https://www.facebook.com/groups/148322462547482/) to get more details.
 
 
+## [Jan 2019](https://www.meetup.com/taqelah/events/257922797/)
+### 1. How to write testable UI code - Shi Ling Tai - Co-founder at UI-licious
+* [Slide](https://www.slideshare.net/ShiLingTai/how-to-build-testable-uis) 
+* [Video](https://youtu.be/5xzcC7dgXe4)
+### 2. Intro to testcafe - Wendy Soh - Software Engineer @ GovTech
+* [Slide](https://docs.google.com/presentation/d/1qnB6e9YmM5D4vsrocp_Pu_7I-nZ9kYVhoduJZWpB2pg) 
+* [Video](https://youtu.be/JDy614IGDY0)
 
 ## [Nov 2018](https://www.meetup.com/taqelah/events/256193269/)
 ### 1. Breaking free from static abuse in test automation frameworks - Abhijeet Vaikar, Software Engineer Test @ Carousell
