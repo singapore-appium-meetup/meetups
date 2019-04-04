@@ -4,6 +4,15 @@
 ### Join our [slack](https://singaporeappiummeetup-slack.herokuapp.com/) channel and [Facebook Group](https://www.facebook.com/groups/148322462547482/) to get more details.
 
 
+## [Mar 2019](https://www.meetup.com/taqelah/events/259785329/)
+### 1. Appium Pro Tips - Syam Sasi, Senior Software Engineer, Carousell
+* [Slide](https://docs.google.com/presentation/d/15fFKx7XuucBnavi2UGBIJlmUFaHvBV2SBrjEMLtgQxs/) 
+* [Code](https://github.com/syamsasi99/8TH_TAQELAH_MEETUP)
+* [Video](https://youtu.be/Q9d2qM14MXM)
+### 2. Cypress - Intro to a modern web automation tool, Praveen MS, Lead QA Engineer, Tectus Dreamlab
+* [Slide](https://docs.google.com/presentation/d/1y_WkdBGqB_a6LdK2JMyWxbVQWi5DXyGtOwUi21OA9d0) 
+* [Video](https://youtu.be/5ZOZgw_qeO8)
+
 ## [Jan 2019](https://www.meetup.com/taqelah/events/257922797/)
 ### 1. How to write testable UI code - Shi Ling Tai - Co-founder at UI-licious
 * [Slide](https://www.slideshare.net/ShiLingTai/how-to-build-testable-uis) 
