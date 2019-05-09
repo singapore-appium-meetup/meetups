@@ -4,6 +4,15 @@
 ### Join our [slack](https://singaporeappiummeetup-slack.herokuapp.com/) channel and [Facebook Group](https://www.facebook.com/groups/148322462547482/) to get more details.
 
 
+## [May 2019](https://www.meetup.com/taqelah/events/260848915/)
+### 1. Creating Test Stability To Achieve Continuous Delivery - Trisha Chetani
+* [Slide](https://drive.google.com/file/d/1dw6zRKWLlbqnGDvgLGrCG4TNglXpsZPN/view) 
+* [Video](https://youtu.be/-GLOrXJG59s)
+### 2. Let’s Know Mobile Security, Anandh Kumar, Senior Associate at Cognizant Technology Solutions
+* [Slide](https://drive.google.com/file/d/1yhYeqN4W6RZlVGK_v2M3MA4FGQ8VMt2L/view) 
+* [Video](https://youtu.be/ADmP0WbfNC8)
+
+
 ## [Mar 2019](https://www.meetup.com/taqelah/events/259785329/)
 ### 1. Appium Pro Tips - Syam Sasi, Senior Software Engineer, Carousell
 * [Slide](https://docs.google.com/presentation/d/15fFKx7XuucBnavi2UGBIJlmUFaHvBV2SBrjEMLtgQxs/) 
